@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /// </summary>
 namespace Multiples_3_5
 {
-    public class Program
+    public class Solution1
     {
         public static void Main(String[] args) {
             // sum will store our progress towards the sum of the multiples
