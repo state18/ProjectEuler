@@ -1,8 +1,5 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /// <summary>
 /// Problem: If all the numbers from 1 to 1000 (one thousand) inclusive were written out in words, how many letters would be used?
 /// Note: My solution will compute the amount of letters it takes from 1 to x, assuming 1 <= x <= 1000  
